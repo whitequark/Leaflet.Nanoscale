@@ -6,7 +6,7 @@ Leaflet.Nanoscale is a sub-millimeter scale control. It displays a scale in nano
 Screenshot
 ----------
 
-![screenshot.png][]
+![Screenshot](screenshot.png)
 
 Usage
 -----
